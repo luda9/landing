@@ -1,0 +1,17 @@
+.container-footer{
+  height: 200px;
+  background-color: #2b2b2b;
+  text-align: center;
+  padding: 60px;
+}
+
+.container-footer i{
+  font-size: 30px;
+  color: #1EDD88;
+  letter-spacing: 15px;
+}
+
+.container-footer p{
+  color: #6B6C6C;
+  margin-top: 25px;
+}
